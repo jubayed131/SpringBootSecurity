@@ -4,3 +4,5 @@ Learning Spring Boot Security
 These two maven dependencies added in the POM
 * spring-boot-starter-security
 * thymeleaf-extras-springsecurity5
+## 10
+Spring Security Automatic log in 
