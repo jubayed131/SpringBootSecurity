@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=tYpS8BmrEyo&list=PLVApX3evDwJ1d0lKKHssPQvzv2Ao3e
 Configure Role based Authorization
 ## 13
 Secure Rest Controllers
+## 13
+Configure Permission based authorization
