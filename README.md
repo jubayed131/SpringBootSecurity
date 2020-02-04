@@ -30,3 +30,5 @@ Database Authentication - user Entity
 Database Authentication - Create User Repository
 A user repository means user table, db init looks like a constructor for user
 if there is authorities(permission) than role does not work. For that ROlE should be defined in authorities.
+## 19
+Database Authentication - Implement User Detail Service
